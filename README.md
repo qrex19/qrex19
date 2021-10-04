@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a student in **Manipal University Jaipur(cse)**
+- 🔭 I’m currently a student in **[Manipal Univesity Jaipur](https://jaipur.manipal.edu)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
